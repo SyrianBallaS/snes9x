@@ -169,5 +169,4 @@ win32/packages/zlib.v140.windesktop.msvcstl.dyn.rt-dyn.1.2.8.8/build/native/zlib
 win32/packages/zlib.v140.windesktop.msvcstl.dyn.rt-dyn.1.2.8.8/build/native/zlib.v140.windesktop.msvcstl.dyn.rt-dyn.x86.targets
 win32/packages/zlib.v140.windesktop.msvcstl.dyn.rt-dyn.1.2.8.8/license/LICENSE
 win32/packages/zlib.v140.windesktop.msvcstl.dyn.rt-dyn.1.2.8.8/zlib.v140.windesktop.msvcstl.dyn.rt-dyn.1.2.8.8.nupkg
-win32/snes9xw.sln
-win32/snes9xw.vcxproj
+
