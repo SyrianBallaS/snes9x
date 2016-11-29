@@ -170,3 +170,14 @@ win32/packages/zlib.v140.windesktop.msvcstl.dyn.rt-dyn.1.2.8.8/build/native/zlib
 win32/packages/zlib.v140.windesktop.msvcstl.dyn.rt-dyn.1.2.8.8/license/LICENSE
 win32/packages/zlib.v140.windesktop.msvcstl.dyn.rt-dyn.1.2.8.8/zlib.v140.windesktop.msvcstl.dyn.rt-dyn.1.2.8.8.nupkg
 
+win32/Valid.Ext
+win32/Win32/Debug/Snes9X.tlog/link.command.1.tlog
+win32/Win32/Debug/Snes9X.tlog/link.read.1.tlog
+win32/Win32/Debug/Snes9X.tlog/link.write.1.tlog
+win32/Win32/Debug/Snes9X.tlog/rc.command.1.tlog
+win32/Win32/Debug/Snes9X.tlog/rc.read.1.tlog
+win32/Win32/Debug/Snes9X.tlog/rc.write.1.tlog
+win32/Win32/Debug/snes9x.res
+win32/snes9x.conf
+win32/stderr.txt
+win32/stdout.txt
