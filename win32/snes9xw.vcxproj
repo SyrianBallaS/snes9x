@@ -703,6 +703,7 @@
     <ClInclude Include="CXML.h" />
     <ClInclude Include="dxerr.h" />
     <ClInclude Include="globals.h" />
+    <ClInclude Include="stdafx.h" />
     <ClInclude Include="InputCustom.h" />
     <ClInclude Include="IS9xDisplayOutput.h" />
     <ClInclude Include="IS9xSoundOutput.h" />
@@ -852,6 +853,7 @@
     <ClCompile Include="InputCustom.cpp" />
     <ClCompile Include="render.cpp" />
     <ClCompile Include="snes_ntsc.c" />
+    <ClCompile Include="stdafx.cpp" />
     <ClCompile Include="wconfig.cpp" />
     <ClCompile Include="win32.cpp" />
     <ClCompile Include="win32_display.cpp" />
